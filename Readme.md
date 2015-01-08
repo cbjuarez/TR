@@ -17,4 +17,3 @@ Previous versions of this app based on:
 Holtmeier, S. (2012). "Reflect your personnel selection." <http://www.r-bloggers.com/reflect-your-personnel-selection-r-taylor-russell-tables/>. 
 
 McLellan, R. A. (1999). "Theoretical expectancies: Replacing classic utility tables with flexible, accurate computing procedures." Personnel Decisions International, 4, 35-48.
-
